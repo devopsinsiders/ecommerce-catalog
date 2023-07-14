@@ -1,1 +1,1 @@
-# ecommerce-catalog
+# ecommerce-api-gateway
